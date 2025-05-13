@@ -1,0 +1,7 @@
+Submitted by: Kristina Goldin 317958700 and David Ben Yakov 320759921
+
+Version 1.10119.1
+
+Problems/Bugs:
+
+			  1. There is a problem adding employees to shifts - if there is more than 1 shift starting at the same hour, the system automatically chooses the first shift stored in the system.
